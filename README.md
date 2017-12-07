@@ -3,7 +3,7 @@ Litecoin Core integration/staging tree
 
 <!-- ([![Build Status](https://travis-ci.org/idinar-project/idinar.svg?branch=master)](https://travis-ci.org/idinar-project/idinar)) -->
 
-https://idinar.org
+https://idinar.co
 
 What is iDinar?
 ----------------
